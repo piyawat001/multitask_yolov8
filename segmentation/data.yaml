@@ -1,0 +1,6 @@
+path: path/to/segmentation/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 3  # จำนวนคลาส
+names: ['class1', 'class2', 'class3']

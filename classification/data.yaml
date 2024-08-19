@@ -1,0 +1,6 @@
+path: path/to/classification/dataset
+train: train
+val: val
+test: test
+nc: 5  # จำนวนคลาส
+names: ['class1', 'class2', 'class3', 'class4', 'class5']
